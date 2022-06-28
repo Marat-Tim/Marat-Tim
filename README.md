@@ -7,7 +7,7 @@
 - 4) Pascal ABC - I know a little about this language.
 - Also, I have good mark on linear algebra. I know LU, QR, SVD matrix decomposition and I understand Diffie–Hellman protocol.
 - 📫 My telegram: https://t.me/marattim123
-- My gmail: magatbaraev@gmail.com
+-    My gmail: magatbaraev@gmail.com
 
 <!---
 Marat-Tim/Marat-Tim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
