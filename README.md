@@ -5,8 +5,10 @@
 2. Python - I learn bases of this language at school. At university I studied different libraries: pandas, sympy, matplotlib(know badly). I like to write little scripts on python(for example, auto-translator minecraft mods or excel file combiner). Also I can get information from datasets but I can't analyze it.
 3. С++ - I know only bases of this language. For example, I can write code for two - linked list, but I don't write normal projects. 
 4. Pascal ABC - I know a little about this language.
-- Also, I have good mark on linear algebra. I know LU, QR, SVD matrix decomposition and I understand Diffie–Hellman protocol.
+
+      Also, I have good mark on linear algebra. I know LU, QR, SVD matrix decomposition and I understand Diffie–Hellman protocol.
 - 📫 My telegram: https://t.me/marattim123
+
       My gmail: magatbaraev@gmail.com
 
 <!---
