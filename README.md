@@ -29,7 +29,7 @@
 
 <div>
    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" alt="java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="java"/>
    </div>
    <div>
       <p><strong>Java</strong> - I studied this language in the 2nd year of university, when I already had an understanding of how to write code good, so I know it best</p>
@@ -42,7 +42,7 @@
 
 <div>
    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35px" alt="c-sharp"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" alt="c-sharp"/>
    </div>
    <div>
       <p><strong>C++++++++++(C#)</strong> - I studied this language in the 1st year of university, when I didn't really know how to program. I really liked this language and I think it's better than Java</p>
@@ -55,7 +55,7 @@
 
 <div>
    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35px" alt="python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="python"/>
    </div>
    <div>
       <p><strong>Python</strong> - I have been studying this language constantly since school and use it in various fields. I like to use this language for scripts that will work 1 time and will not be used anymore. In my opinion, this language is not suitable for writing large programs, since there is no strict typing in it and I don't understand how OOP works in this language</p>
@@ -72,7 +72,7 @@
 
 <div>
    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35px" alt="cplusplus"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" alt="cplusplus"/>
    </div>
    <div>
       <p><strong>c++</strong> - I use this language mainly for writing algorithms and data structures. I know most of the syntax of this language, I know a little about the standard library (collections and algorithms). I don't know any frameworks in this language and never write normal projects on it</p>
@@ -81,7 +81,7 @@
 
 <div>
    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35px" alt="c"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" alt="c"/>
    </div>
    <div>
       <p><strong>c</strong> - I studied this language in a course on linux and I can write in it only for this operating system. I know the syntax of the language and the standard library for linux(strings, multithreading, processes, TCP, UDP, file system). I haven't written normal projects in this language(I don't see the point of using it except for working with hardware)</p>
@@ -90,7 +90,7 @@
 
 <div>
    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35px" alt="go"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50px" alt="go"/>
    </div>
    <div>
       <p><strong>Go</strong> - I started learning this language recently and at the moment I only know its syntax and pieces of the standard library. I liked this language and I think I will learn it at a normal level soon</p>
