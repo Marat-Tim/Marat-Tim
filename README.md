@@ -12,6 +12,9 @@
     <a href="mailto:magatbaraev@gmail.com">
         <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail"/>
     </a> 
+    <a href="https://instagram.com/marat_tim123?igshid=MmIzYWVlNDQ5Yg==">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="vk"/>
+    </a> 
 </div>
 
 👀 I am interested in:
