@@ -1,6 +1,9 @@
+![NO AI](https://raw.githubusercontent.com/nuxy/no-ai-badge/master/badge.svg)
+Page written without AI
+
 <div align="center">
     <h1>Hi, I am Marat Tim 👋</h1>    
-    <h3>20 yo programmer from Moscow</h3>
+    <h3>22 yo programmer from Moscow</h3>
 </div>
 <div align="center">
     <a href="https://t.me/marattim123">
@@ -18,88 +21,115 @@
 </div>
 
 👀 I am interested in:
-- Backend development
-- Machine learning
-- Bots development
-- Object-oriented programming
-- And any other programming(but the previous points I like the most)
 
-🎓 I study at the Higher School of Economics(HSE), Faculty of Computer Science, software engineering, 3-rd year
+- Java backend development
+- Developer tools
+- Writing beautiful code
+- And any other programming (but the previous points I like the most)
 
-✍️ In my free time, I like to listen to programming conferences or write small projects using technology unknown to me(to study it)
+🎓 I studied at the Higher School of Economics (HSE), Faculty of Computer Science, software engineering (4 years),
+[my diploma](https://www.hse.ru/edu/vkr/1046846982)
 
-🐸 Programming languages that I know:
+🏭 Work experience
+
+**11.2022 - 06.2024 (1y8m): teaching assistant**
+
+- creating tasks
+- checking HWs
+- accepted exams
+
+**03.2024 - 08.2026 (2y6m): intern to middle java backend in Raiffeisen Bank (digital lending for legal companies)**
+
+- product development (solve tasks for business)
+- work with openxml (for generating docx)
+- migrating monolith to microservices (and writing own microservices on spring boot)
+- integrations by rest, kafka, artemis (dadata, СМЭВ, CRM and internal systems)
+- working with cucumber tests
+- writing many spring boot starters (kerberos auth/client/kafka, logbook with masking, request id lib and others)
+- migrating spring boot 2 → 3 → 4
+- writing many gradle plugins (default openapi generators, union of errorprone + nullaway + checkerframework, default
+  jib and others)
+- writing many small automation scripts (find users in log, create AI reviewer in project, generate new project from
+  template and others)
+
+Example of my problems during development https://stackoverflow.com/users/22989572/marat-tim?tab=questions&sort=newest
+
+🐸 Tech skills:
 
 <div>
-   <div>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="java"/>
-   </div>
-   <div>
-      <p><strong>Java</strong> - I studied this language in the 2nd year of university, when I already had an understanding of how to write code good, so I know it best</p>
-      <p>I know the basics of the language: syntax, standard library(collections, multithreading, annotations, stream api, etc.), popular libraries(serialization, testing, etc.) and build systems(maven, gradle)</p>
-      <p>I have studied design patterns in this language, so I know them well in it</p>
-      <p>I also know the Spring Boot framework. I know how it works, I know the basic annotations and I have experience in writing web services</p>
-      <p>I know a little about android development in this language</p>
-   </div>
+    <div>
+        <img align="left" src="https://devicons.io/devicons/icons/openai-icon.svg" width="50px" alt="claude"/>
+    </div>
+    <div>
+        <p>
+            <strong>AI dev</strong> - I use opencode TUI. Most time I use chatgpt or internal qwen model.
+            I understand opencode customization, write my own agents, skills and 
+            <a href="https://github.com/Marat-Tim/MattermostSearchMCP">MCP for searching in mattermost messenger</a>.
+        </p>
+        <p>I used our own harness written in the team</p>
+        <p>
+            I don't like idea to write all code using agents. 
+            I think main part of code is understanding and to achieve it, you need to write it yourself
+        </p>
+    </div>
 </div>
 
 <div>
-   <div>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" alt="c-sharp"/>
-   </div>
-   <div>
-      <p><strong>C++++++++++(C#)</strong> - I studied this language in the 1st year of university, when I didn't really know how to program. I really liked this language and I think it's better than Java</p>
-      <p>I know the basics of this language: syntax, standard library(collections, multithreading, asynchronous, Linq, serialization, attributes, regex, etc.)</p>
-      <p>I know frameworks for writing desktop applications, namely windows forms and WPF</p>
-      <p>I know a little about the framework ASP.NET and developed the simplest web services on it</p>
-      <p>I wrote bots for telegram and VKontakte in this language. My first course project is a bot for moderation of a board game</p>
-   </div>
+    <div>
+        <img align="left" src="https://devicons.io/devicons/icons/java.svg" width="50px" alt="java"/>
+    </div>
+    <div>
+        <p><strong>Java</strong>(17-25) with Spring Boot(2-4) is my main lanuage</p>
+        <p>I use Gradle and I can write plugins for it</p>
+        <p>
+            I works many with Spring Boot: Web(can write CRUD apps), Jpa(can write jpql, criteria queries), 
+            Security(can configure many params of SecurityConfig, can write own filters)
+        </p>
+        <p>I works with: jooq, hibernate(six-seven), apache-*, docx4j, logbook, cucumber, etc</p>
+        <p>
+            At university we write
+            <a href="https://arxiv.org/abs/2410.10425">
+                scientific article about relationship between immutability and cyclomatic complexity
+            </a>
+        </p>
+        <p>I can write plugins for intellij - <a href="https://github.com/Marat-Tim/VacuumJetbrainsPlugin">vacuum plugin</a></p>
+        <p>I write <a href="https://github.com/Marat-Tim/HSE-HomeworkJava/blob/master/MyDI/src/test/java/ru/marat/DITest.java">my own DI container</a> for study</p>
+    </div>
 </div>
 
 <div>
-   <div>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="python"/>
-   </div>
-   <div>
-      <p><strong>Python</strong> - I have been studying this language constantly since school and use it in various fields. I like to use this language for scripts that will work 1 time and will not be used anymore. In my opinion, this language is not suitable for writing large programs, since there is no strict typing in it and I don't understand how OOP works in this language</p>
-      <p>My knowledge in python:</p>
-      <ul>
-         <li>Syntax, standard library</li>
-         <li>Python for data analysis - I know the pandas, numpy, matplotlib, seaborn libraries</li>
-         <li>Python for machine learning - I know the Scikit learn library</li>
-         <li>Python for Mathematical sciences - I know the Sympy library, which is designed to work with derivatives, integrals, matrices and other mathematical objects</li>
-      </ul>
-      <p>I often write small scripts in this language, for example, an excel spreadsheet concatenator, minecraft mod auto-translator :) and others</p>
-   </div>
+    <div>
+        <img align="left" src="https://devicons.io/devicons/icons/postgresql.svg" width="50px" alt="postgresql"/>
+    </div>
+    <div>
+        <p><strong>Postgresql</strong> - my main sql</p>
+        <p>
+            I work many with JSONB
+            (for example I know different between <code>j->'field' IS NOT NULL AND j->'field' != 'null'::jsonb</code>
+            or why we need prefer <code>j ? 'key'</code> to <code>jsonb_exists(j, 'key')</code> 
+            and why first option will not work in native jpa query)
+        </p>
+        <p>I know pessimistic and optimistic locks, transactions levels</p>
+        <p>I know why <code>WHERE column IS NULL OR column = :param</code> is bad idea</p>
+    </div>
 </div>
 
 <div>
-   <div>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" alt="cplusplus"/>
-   </div>
-   <div>
-      <p><strong>c++</strong> - I use this language mainly for writing algorithms and data structures. I know most of the syntax of this language, I know a little about the standard library (collections and algorithms). I don't know any frameworks in this language and never write normal projects on it</p>
-   </div>
+    <div>
+        <img align="left" src="https://devicons.io/devicons/icons/openapi-icon.svg" width="50px" alt="openapi"/>
+    </div>
+    <div>
+        <p><strong>Open API</strong> - I know it in context of API first</p>
+        <p>
+            I was first in company who automate 
+            <a href="https://github.com/Marat-Tim/Raiffeisen-VacuumExtensions">linting openapi files</a>
+            by company standards
+        </p>
+        <p>I contribute to <a href="https://github.com/daveshanley/vacuum/pulls?q=is%3Apr+author%3AMarat-Tim">vacuum openapi linter</a></p>
+        <p>I create <a href="https://github.com/Marat-Tim/VacuumJetbrainsPlugin">Intellij IDEA plugin for vacuum</a></p>
+        <p>I tried to <a href="https://github.com/Marat-Tim/Raiffeisen-ApiGuideLinterUsingLlm">lint openapis using LLM</a></p>
+    </div>
 </div>
 
-<div>
-   <div>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" alt="c"/>
-   </div>
-   <div>
-      <p><strong>c</strong> - I studied this language in a course on linux and I can write in it only for this operating system. I know the syntax of the language and the standard library for linux(strings, multithreading, processes, TCP, UDP, file system). I haven't written normal projects in this language(I don't see the point of using it except for working with hardware)</p>
-   </div>
-</div>
-
-<div>
-   <div>
-      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50px" alt="go"/>
-   </div>
-   <div>
-      <p><strong>Go</strong> - I started learning this language recently and at the moment I only know its syntax and pieces of the standard library. I liked this language and I think I will learn it at a normal level soon</p>
-   </div>
-</div>
-
-🐸 Other skills:
-
-I know basic algorithms and data structures, design patterns (GoF), architectural patterns (MVC, MVP, MVVM). I have experience with Linux console (I know bash). I understand HTTP, TCP, UDP protocol. I know the principles of REST. I know how to use git. I know a little about sql(postgres). I use Microsoft Word, Excel, PowerPoint, Visio Drawing; Google docs, sheets, forms. I know how to create and work with virtual machines. I love and use Jetbrains IDE. For C#, I prefer to use Visual Studio + Resharper. I also know how to use Jupyter Notebook. I am not afraid of mathematics, I won Olympiads in it at school, and at university I knew linear algebra, mathematical analysis and discrete mathematics at a normal level. I use chatGPT and analogs
+✍️ In my free time, I like to listen to programming conferences (Jpoint/Joker, java rock stars, black hat and others),
+writing small PRs to open source or develop personal projects
